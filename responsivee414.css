@@ -1,0 +1,296 @@
+@media only screen and (max-width:768px) {
+    .logo{
+        font-size: 16px;
+        margin: 0px;
+      }
+      .fa-bars{
+        font-size: 100%;
+      }
+      .nav-bar{
+        width: 92%;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .nav-bar{
+        padding: 15px 0px;
+    }
+    /* ---------- hero section---------- */
+    .hero-section{
+       flex-direction: column-reverse;
+       
+       justify-content: space-between;
+       align-items: center;
+    }
+    .image-sec {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .text-sec{
+        flex-basis: 100%;
+        text-align: center;
+        padding-right: 0px;  
+    }
+    .find-head {
+        font-size: 28px;
+    }
+    .hero-des {
+        font-size: 12px;
+        line-height: 25px;
+        padding: 0px 20px;
+    }
+    .live-chat{
+        font-size: 10px;
+        font-weight: 500;
+        padding: 5px 12px;
+    }
+    .get-appoint{
+        font-size: 10px;
+        font-weight: 500;
+        padding: 5px 12px;
+    }
+    /* <!-- 3 easy step start  --> */
+    .seconnd-sec{
+        width: 92%;
+    }
+    .second-head{
+        font-size: 28px;
+        margin-top: 10px;
+        padding: 30px;
+        line-height: 45px;
+    }
+    .thre-box{
+        flex-direction: column;
+    }
+    /* <!-- <<< 3rd section start from here >>>>>>> --> */
+    .third-section{
+        width: 92%;
+        flex-direction: column;
+    }
+    .content-side h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 28px;
+        margin-top: 50px;
+    }
+    .content-side{
+        text-align: center;
+    }
+    .content-side{
+       margin: 0px;
+       padding: 0px;
+        
+    }
+    .content-side p {
+        padding: 0px 45px;
+        padding-bottom: 5px;
+    }
+    .content-side h1{
+        padding: 0px 20px;
+        padding-bottom: 10px;
+    }
+    .icon-text{
+        width: 82%;
+        margin: auto;
+    }
+    .icon-text p{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .icon-text{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .icon-text img{
+      margin: 0px;
+      margin-right: 10px;
+    }
+    .Ex-btn{
+        margin-top: 40px;
+        font-size: 10px;
+    }
+    /* fourth section start from here  */
+    .forth-sec{
+        width: 80%;
+    }
+    .forth-sec h1{
+        font-size: 28px;
+    }
+    .forth-sec p{
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .box-warpper{
+        flex-direction: column;
+    }
+    .forth-sec p {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .boxx-1{
+        margin-top: 60px;
+    }
+
+    /* <!-- <<<<<<<<< doctor section heree >>>>>> --> */
+    .four-doctor{
+       width: 92%;
+    }
+    .four-doctor h1 {
+        font-size: 28px;
+        width: 80%;
+        margin: auto;
+        margin-top: 80px;
+        line-height: 40px;
+       
+    }
+    .four-doctor img{
+        width: 15%;
+        margin-top: 15px;
+    }
+    .four-doctor p {
+        width: 53%;
+        font-size: 12px;
+        line-height: 25px;
+        width: 70%;
+    }
+    .four-box-warrrper{
+        flex-direction: column;
+        gap: 0px;
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+    .boxs img {
+        width: 90%;
+        margin-top: 15px;
+    }
+    .content-box h3 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height:0px;
+        margin-bottom: 20px;
+    }
+    .content-box h6 {
+        font-size: 12px;
+    }
+    .icon-box{
+        padding-bottom: 40px;
+    }
+    .content-box{
+        margin-top: -110px;
+    }
+    .explore {
+        padding: 7px 15px;font-size: 10px;
+        margin-top: 30px;
+    }
+    /* <!-- <<<<< 5th section start from here >>>>>>>>> --> */
+    .five-sec{
+        width: 92%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        margin-bottom: 0px;
+    }
+    .mockup-div{
+        flex-basis: 100%;
+    }
+    .mockup-div img{
+        width: 100%;
+        margin-left: 0px;
+    
+    }
+    .cont-div {
+        flex-basis: 100%;
+        width: 100%;
+      padding: 0px;
+      margin: 0px;
+      text-align: center;
+    }
+    .cont-div h1{
+        width: 100%;
+        z-index: 999;
+        font-size:28px;
+        padding: 0px 20px;
+
+    }
+    .cont-div p{
+        padding: 20px 20px;
+        font-size: 12px;
+    }
+    .btn-div img{
+        width: 20%;
+    
+    }
+
+    /* ---------------blue sec ------------ */
+    .sec-box{
+        height: 130px;
+        width: 92%;
+   
+   }
+   .he{
+    font-size: 20px;
+    margin-left:20px;
+    margin-top: 10px;
+   }
+   .div1{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.div1 button{
+    font-size: 10px;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+}
+/* ------------footerr ----------------- */
+.footer {
+    width: 90%;
+    padding-top: 80px;
+}
+.sec-one{
+    flex-basis: 100%;
+    order: 3;
+    margin-top: 30px;
+    
+}
+.sec-one h3{
+    font-size: 18px;
+}
+.sec-tow{
+    flex-basis: 50%;
+    order: 1;
+    margin-top: 20px;
+}
+.sec-thre{
+    flex-basis: 50%;
+    order: 2;
+    margin-top: 20px;
+}
+.sec-thre h3{
+    padding-bottom: 10px;
+}
+.sec-thre ul li{
+    margin-top: 10px;
+}
+.sec-four{
+    flex-basis: 100%;
+    order: 4;
+
+}
+.sec-tow ul li{
+    margin-top: 10px;
+}
+.sec-tow h3{
+    padding-bottom: 10px;
+}
+.menu ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+}

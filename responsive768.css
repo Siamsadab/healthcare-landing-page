@@ -1,0 +1,295 @@
+@media only screen and (max-width:768px) {
+   html{
+    --text-size : 32px;
+   }
+   
+   .logo{
+    font-size: 24px;
+    margin: 0px;
+  }
+  .nav-side{
+    display: none;
+  }
+  .menu-icon{
+    display: inline-block;
+  }
+  .fa-bars{
+    font-size: 160%;
+  }
+  .nav-bar{
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo-side{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .menu-icon{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+/* ---------- hero section---------- */
+.hero-section{
+    width: 90%;
+    padding: 50px 0px;
+}
+.find-head{
+    font-size: 32px;
+}
+.text-sec {
+    padding-right: 50px;
+}
+.live-chat{
+    padding: 5px 12px;
+}
+.get-appoint{
+    padding: 5px 12px;
+}
+.hero-des {
+    padding: 10px 0px;
+}
+/* <!-- 3 easy step start  --> */
+.seconnd-sec{
+    width: 90%;
+}
+.second-head{
+    font-size: 32px;
+    margin-top: 80px;
+}
+.box {
+    padding: 0px 35px;
+}
+/* <!-- <<< 3rd section start from here >>>>>>> --> */
+.third-section{
+    width: 90%;
+}
+.third-section{
+    gap: 0px;
+}
+.content-side{
+    padding-right: 10px;
+    margin-left: 40px;
+}
+.content-side h1{
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 10px;
+}
+.content-side p{
+    font-size: 14px;
+    line-height: 25px;
+}
+.content-side p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    padding-bottom: 05px;
+}
+.icon-text p{
+    margin-left: 10px;
+}
+.icon-text img{
+    font-size: 20px;
+    margin-top: -20px;
+}
+.Ex-btn{
+    padding: 7px 15px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+/* <!-- our service section start from here  --> */
+.forth-sec{
+    width: 90%;
+}
+.forth-sec h1{
+    font-size: 32px;
+}
+.forth-sec p{
+    font-size: 14px;
+    width: 60%;
+    margin-bottom: 50px;
+}
+.box-warpper{
+    gap: 30px;
+}
+.boxx h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.boxx p{
+    width: 80%;
+}
+.boxx{
+    padding: 
+    30px 0px;
+}
+/* four section start from here  */
+.four-doctor img {
+    margin-top: 10px;
+}
+.four-doctor{
+    width: 90%;
+}
+.four-doctor h1{
+    margin-top: 120px;
+    font-size: 32px;
+}
+.four-doctor p{
+    width: 53%;
+    font-size: 14px;
+}
+.four-box-warrrper{
+    margin-top: 30px;
+}
+.boxs img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.boxx h3{
+    font-size: 16px;
+    padding: 10px 0px;
+}
+.fa-brands{
+    font-size: 12px;
+}
+.explore {
+    padding: 7px 15px;
+    margin-top: 50px;
+}
+/* <!-- <<<<< 5th section start from here >>>>>>>>> --> */
+.five-sec{
+    width: 90%;
+}
+.mockup-div{
+    flex-basis: 50%;
+}
+.mockup-div img{
+    margin-left:0px;
+    width: 100%;
+}
+.cont-div{
+    width: 50%;
+}
+.cont-div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cont-div h1{
+    font-size: 32px;
+    line-height: 40px;
+}
+.cont-div p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    padding: 10px 0px;
+}
+.btn-div img{
+    width: 30%;
+    margin-right: 10px;
+}
+.blue-sec{
+    z-index: -1;
+}
+.blue-div{
+    z-index: -4;
+}
+.img-part{
+    flex-basis: 50%;
+}
+.img-part img{
+    z-index: 99;
+}
+    
+/* blue section start from here  */
+
+/*  */
+.sec-box{
+    width: 90%;
+}
+
+.he{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: white;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+.div1{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.sec-box{
+     height: 250px;
+}
+.div1 button{
+     margin-left: 20px;
+     font-size: 12px;
+     padding: 7px 10px;
+}
+
+.div2 img{
+    position: absolute;
+    width: 110%;
+    background-color: rgba(255, 0, 0, 0);
+    bottom:0px;
+    right: -20px;
+    z-index: 99;
+}
+ /* foooter start from here */
+ .for-div-warper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+ .footer{
+    width: 90%;
+    
+}
+.sec-one{
+    flex-basis: 50%;
+    order: 1;
+}
+.sec-tow{
+    flex-basis: 50%;
+    order: 3;
+    margin-top: 20px;
+}
+.sec-thre{
+    flex-basis: 50%;
+    order: 4;
+    margin-top: 20px;
+}
+.sec-four{
+    flex-basis: 50%;
+    order: 2;
+
+}
+
+.sec-tow ul li {
+    
+    margin-left: 0px;
+    margin-left: -30px;
+}
+
+
+.sec-one h3{
+    margin-top: 0px;
+    line-height: 32px;
+    
+}
+.sec-thre ul li{
+    margin-left: -30px;
+}
+.copy-sec{
+    width: 90%;
+}
+
+}
